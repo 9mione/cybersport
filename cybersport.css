@@ -41,25 +41,25 @@ body{
 #kib{
     display: inline;
     position: absolute;
-    top: -120px;
+    top: -90px;
     left: 200px;
-    color:  #802bb1;
+    color:  #8A2BE2;;
 }
 .phone2 {
     background: #2D283E;
 }
 #kib1{
-    color:  #802bb1;
+    color: #8A2BE2;;
 }
 #kib2{
-    color:  #802bb1;
+    color:  #8A2BE2;;
 }
 #cv2{
     color: #d1d7e0;
     text-decoration: none;
     display: inline;
     position: relative;
-    top: 930px;
+    top: 900px;
     left: 900px;
     border: 1px solid #D3D3D3;
 }
