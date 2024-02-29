@@ -1,17 +1,18 @@
 .navig3 {
     display: inline;
     position: absolute;
-    bottom: 0;
+    bottom: -1060px;
     left: 900px;
     text-decoration: none;
     font-weight:bold;
+    color: #d1d7e0;
     border: 1px solid #d1d7e0;
 }
 .igri3 {
     display: inline;
     position: absolute;
     left: 500px;
-    color: #802bb1;
+    color: #8A2BE2;
 }
 .phone1{
     background: #2D283E;
@@ -21,17 +22,17 @@ body{
 }
 .asd2{
     width: 250px;
-    height: 1000px;
+    height: 2010px;
     background: #4c495d;
     border: 1px solid #564F6f;
     position: absolute;
-    left: 0px;
+    left: 0;
     top: 0;
     bottom: 0;
 }
 .asd3{
     width: 250px;
-    height: 1000px;
+    height: 2010px;
     background-color: #4c495d;
     border: 1px solid  #564F6f ;
     position: absolute;
@@ -39,19 +40,14 @@ body{
     top: 0;
     bottom: 0;
 }
-#cv{
+cv{
     color: #d1d7e0;
     text-decoration: none;
 }
-#cv1{
-    color: #D3D3D3
+ .cv1{
+    color: #D3D3D3;
 }
 #cv8{
     position: relative;
-    left: 350px;
-}
-#zxc3{
-    position: absolute;
-    left: 100px;
-    width: 700px;
+    left: 400px;
 }
