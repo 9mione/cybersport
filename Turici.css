@@ -2,15 +2,14 @@
     display: inline;
     position: relative;
     left: 500px;
-    width: 1000px;
+    width: 2000px;
     color: #d1d7e0;
     font-weight:bold
 }
 .asd5{
     width: 250px;
-    height: 3520px;
-    background: #4c495d;
-    border: 1px solid #564F6f;
+    height: 2160px;
+    background: #4c495d;;
     position: absolute;
     left: 0;
     top: 0;
@@ -18,13 +17,13 @@
 }
 .asd6{
     width: 250px;
-    height: 3520px;
+    min-height: 2160px;
     background-color: #4c495d;
-    border: 1px solid #564F6f ;
     position: absolute;
     right: 0;
     top: 0;
     bottom: 0;
+
 }
 .igri2{
     display: inline;
@@ -43,21 +42,26 @@ body{
      color: #d1d7e0;
     text-decoration: none;
     display: inline;
-    position: relative;
+    position:absolute;
     border: 1px solid #D3D3D3;
-     top: 3480px;
+    top: 2140px;
     left: 900px;
-    font-weight:bold
+    font-weight:bold;
+    font-size: large;
 }
 #zxc{
-    color: #802bb1;
+    color: #8A2BE2;
     position: relative;
     left: 340px;
     font-weight:bold
 }
 #zxc1{
-    color: #802bb1;
+    color: #8A2BE2;
     position: relative;
     left: 340px;
     font-weight:bold
+}
+.fote{
+    height: 150px;
+    width: 150px;
 }
