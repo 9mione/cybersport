@@ -1,14 +1,15 @@
 .navig1{
     display: inline;
-    border: 1px solid #d1d7e0;
+    border: 2px solid #DDA0DD;
     position: relative;
-    padding: 30px;
-    margin: 30px;
+    padding: 15px;
+    margin: 15px;
     top: 450px;
-    left: 350px;
-    color: #802bb1;
-    text-decoration: none;
+    left: 280px;
     font-weight:bold;
+    color: #d1d7e0;
+    text-decoration: none;
+    border-radius: 30px;
 
 }
 footer{
@@ -28,7 +29,7 @@ footer{
 }
 .asd{
     width: 250px;
-    height: 1000px;
+    height: 970px;
     background: #4c495d;
     border: 1px solid #564F6f ;
     position: absolute;
@@ -38,7 +39,7 @@ footer{
 }
 .asd1{
     width: 250px;
-    height: 1000px;
+    height: 970px;
     background-color: #4c495d;
     border: 1px solid #564F6f ;
     position: absolute;
@@ -57,5 +58,3 @@ body{
     left: 300px;
 
 }
-
-
