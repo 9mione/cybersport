@@ -1,7 +1,7 @@
 .navig3 {
     display: inline;
     position: absolute;
-    bottom: -150px;
+    bottom: -450px;
     left: 370px;
     text-decoration: none;
     font-weight:bold;
@@ -16,7 +16,7 @@ body{
 }
 .asd2{
     width: 250px;
-    height: 1250px;
+    height: 1820px;
     background: #4c495d;
     border: 1px solid #564F6f;
     position: absolute;
@@ -26,7 +26,7 @@ body{
 }
 .asd3{
     width: 250px;
-    height: 1250px;
+    height: 1820px;
     background-color: #4c495d;
     border: 1px solid  #564F6f ;
     position: absolute;
@@ -35,18 +35,26 @@ body{
     bottom: 0;
 }
 .igri3 {
+    top: 1000px;
     display: inline;
     position: absolute;
     left: 500px;
-    color: #8A2BE2;
+    color: #DDA0DD;
+    font-size:large;
 }
 #cv8{
     position: relative;
-    left: 200px;
+    left: 250px;
+    top: -50px;
 }
 .ist{
+    display: inline;
+    position: absolute;
+    top: 1000px;
     color: #d1d7e0;
     text-decoration: none;
+    font-weight:bold;
+    font-size: large
 }
 .foto{
     height: 200px;
@@ -59,4 +67,158 @@ body{
 }
 .ss{
     color: #d1d7e0;
+}
+.nebula{
+    display: inline;
+    position: absolute;
+    top: -700px;
+    height: 200px;
+    left: -100px;
+}
+.nebula2{
+    display: inline;
+    position: absolute;
+    top: -1000px;
+    height: 200px;
+    left: -200px;
+}
+#neb {
+    display: inline;
+    position: absolute;
+    top: -1000px;
+    left: 10px;
+}
+#com{
+    display: inline;
+    position: absolute;
+    top: -770px;
+    left: 350px;
+    font-size:x-large;
+}
+#dol{
+    display: inline;
+    position: absolute;
+    top: -500px;
+    left: -100px;
+    color: #d1d7e0;
+    font-size:large
+}
+#nat{
+    display: inline;
+    position: absolute;
+    top: -700px;
+    left: 200px;
+    height: 200px;
+}
+#mac{
+    display: inline;
+    position: absolute;
+    top: -500px;
+    left: 200px;
+    color: #d1d7e0;
+    font-size:large
+}
+#vad{
+    display: inline;
+    position: absolute;
+    top: -700px;
+    height: 200px;
+    left: 500px;
+}
+#mol{
+    display: inline;
+    position: absolute;
+    top: -500px;
+    left: 500px;
+    color: #d1d7e0;
+    font-size:large
+}
+#nic{
+    display: inline;
+    position: absolute;
+    top: -700px;
+    height: 200px;
+    left: 800px;
+}
+#dan{
+    display: inline;
+    position: relative;
+    top: -482px;
+    left: 800px;
+    color: #d1d7e0;
+    font-size:large
+}
+#asd{
+    display: inline;
+    position: absolute;
+    top: -400px;
+    left: -200px;
+}
+#cit{
+    display: inline;
+    position: absolute;
+    top: -270px;
+    left: -200px;
+}
+#val{
+    font-size:large;
+    display: inline;
+    position: absolute;
+    top: 100px;
+    left: -100px;
+
+}
+#val1{
+    display: inline;
+    position: absolute;
+    height: 200px;
+    left: -100px;
+    top: 150px;
+}
+#con{
+    display: inline;
+    position: absolute;
+    height: 200px;
+    top: 150px;
+    left: 300px;
+}
+#con1{
+    display: inline;
+    position: relative;
+    font-size:large;
+    top: 0;
+    left: 300px;
+}
+#dot{
+    display: inline;
+    position: absolute;
+    font-size:large;
+    top: 100px;
+    left: 700px;
+
+}
+#dot2{
+    display: inline;
+    position: absolute;
+    height: 200px;
+    left: 700px;
+    top: 150px;
+}
+#god{
+    display: inline;
+    position: relative;
+    top: 250px;
+    left: -200px;
+}
+#vk{
+    display: inline;
+    position: absolute;
+    top: 650px;
+    left: -200px;
+}
+#vk1{
+    display: inline;
+    position: absolute;
+    top: 20px;
+
 }
