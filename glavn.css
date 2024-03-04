@@ -50,7 +50,7 @@
 }
 footer{
     display: inline;
-    border: 1px solid #d1d7e0;
+    border: 2px solid #d1d7e0;
     position: absolute;
     bottom: 0;
     left: 900px;
@@ -144,4 +144,9 @@ body{
     position: absolute;
     left: 680px;
   top: 0;
+}
+#fot{
+    display: inline;
+    position: absolute;
+    left: 400px;
 }
