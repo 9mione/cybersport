@@ -1,16 +1,52 @@
 .navig1{
     display: inline;
     border: 2px solid #DDA0DD;
-    position: relative;
+    position: absolute;
     padding: 15px;
     margin: 15px;
-    top: 450px;
-    left: 280px;
+    top: 400px;
+    left: 265px;
     font-weight:bold;
     color: #d1d7e0;
     text-decoration: none;
     border-radius: 30px;
 
+}
+.navig2{
+  display: inline;
+  position: absolute;
+  border: 2px solid #DDA0DD;
+  padding: 15px;
+  top: 500px;
+  left: 280px;
+  font-weight:bold;
+  color: #d1d7e0;
+  text-decoration: none;
+  border-radius: 30px;
+}
+.navig3{
+  display: inline;
+  position: absolute;
+  border: 2px solid #DDA0DD;
+  padding: 15px;
+  top: 220px;
+  left: 280px;
+  font-weight:bold;
+  color: #d1d7e0;
+  text-decoration: none;
+  border-radius: 30px;
+}
+.navig4{
+  display: inline;
+  position: absolute;
+  border: 2px solid #DDA0DD;
+  padding: 15px;
+  top: 320px;
+  left: 280px;
+  font-weight:bold;
+  color: #d1d7e0;
+  text-decoration: none;
+  border-radius: 30px;
 }
 footer{
     display: inline;
@@ -28,7 +64,7 @@ footer{
     text-decoration: none;
 }
 .asd{
-    width: 250px;
+    width: 220px;
     height: 970px;
     background: #4c495d;
     border: 1px solid #564F6f ;
@@ -38,7 +74,7 @@ footer{
     bottom: 0;
 }
 .asd1{
-    width: 250px;
+    width: 220px;
     height: 970px;
     background-color: #4c495d;
     border: 1px solid #564F6f ;
@@ -57,4 +93,55 @@ body{
     position: absolute;
     left: 300px;
 
+}
+#act{
+  display: inline;
+  position: absolute;
+  left: 900px;
+  color: #8A2BE2;
+  font-weight:bold
+}
+.adres{
+  display: inline;
+  position: absolute;
+  left: 720px;
+  top: 100px;
+  color: #d1d7e0;
+  text-decoration: none;
+  font-weight:bold;
+  font-size: large;
+}
+.put{
+  display: inline;
+  position: absolute;
+  left: 720px;
+  top: 760px;
+  color: #d1d7e0;
+  font-weight:bold;
+}
+.adres2{
+  display: inline;
+  position: absolute;
+  left: 720px;
+  top: 650px;
+  color: #d1d7e0;
+  text-decoration: none;
+  font-weight:bolder;
+  font-size: large;
+}
+.fot{
+  display: inline;
+  position: absolute;
+  left: 800px;
+  top: 230px;
+  height: 400px;
+
+}
+.polos{
+    width: 10px;
+    height: 970px;
+    background-color: #DDA0DD;
+    position: absolute;
+    left: 680px;
+  top: 0;
 }
