@@ -87,6 +87,8 @@ body{
     position: absolute;
     top: -1000px;
     left: 10px;
+    font-size: xx-large;
+    color: #7366BD;
 }
 #com{
     display: inline;
