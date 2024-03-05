@@ -81,6 +81,7 @@ body{
   top: -250px;
   height: 200px;
   left: -230px;
+    border: 1px solid #d1d7e0;
 }
 #kib3{
   display: inline;
@@ -94,6 +95,7 @@ body{
   height: 200px;
   top: 200px;
   left: 100px;
+    border: 1px solid #d1d7e0;
 }
 #kib4{
   display: inline;
@@ -107,4 +109,5 @@ body{
   height: 200px;
   top: 680px;
   left: 100px;
+    border: 1px solid #d1d7e0;
 }
