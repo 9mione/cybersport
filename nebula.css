@@ -45,7 +45,7 @@ body{
 #cv8{
     position: relative;
     left: 250px;
-    top: -50px;
+    top: -100px;
 }
 .ist{
     display: inline;
@@ -74,6 +74,7 @@ body{
     top: -700px;
     height: 200px;
     left: -100px;
+    border: 1px solid #d1d7e0;
 }
 .nebula2{
     display: inline;
@@ -81,11 +82,12 @@ body{
     top: -1000px;
     height: 200px;
     left: -200px;
+    border: 1px solid #d1d7e0;
 }
 #neb {
     display: inline;
     position: absolute;
-    top: -1000px;
+    top: -970px;
     left: 10px;
     font-size: xx-large;
     color: #7366BD;
@@ -111,6 +113,7 @@ body{
     top: -700px;
     left: 200px;
     height: 200px;
+    border: 1px solid #d1d7e0;
 }
 #mac{
     display: inline;
@@ -126,6 +129,7 @@ body{
     top: -700px;
     height: 200px;
     left: 500px;
+    border: 1px solid #d1d7e0;
 }
 #mol{
     display: inline;
@@ -141,6 +145,7 @@ body{
     top: -700px;
     height: 200px;
     left: 800px;
+    border: 1px solid #d1d7e0;
 }
 #dan{
     display: inline;
@@ -176,6 +181,7 @@ body{
     height: 200px;
     left: -100px;
     top: 150px;
+    border: 1px solid #d1d7e0;
 }
 #con{
     display: inline;
@@ -183,6 +189,7 @@ body{
     height: 200px;
     top: 150px;
     left: 300px;
+    border: 1px solid #d1d7e0;
 }
 #con1{
     display: inline;
@@ -205,6 +212,7 @@ body{
     height: 200px;
     left: 700px;
     top: 150px;
+    border: 1px solid #d1d7e0;
 }
 #god{
     display: inline;
