@@ -129,6 +129,7 @@ body{
     top: -700px;
     height: 200px;
     left: 500px;
+    width: 150px;
     border: 1px solid #d1d7e0;
 }
 #mol{
@@ -145,6 +146,7 @@ body{
     top: -700px;
     height: 200px;
     left: 800px;
+    width: 130px;
     border: 1px solid #d1d7e0;
 }
 #dan{
